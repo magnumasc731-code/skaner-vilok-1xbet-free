@@ -1,3 +1,19 @@
+# 🚀 Smart Arbitrage: Эксклюзивный Сканер Вилок для 1xBet
+
+<p align="center">
+  <a href="ВАША_ССЫЛКА_1XBET">
+    <img src="https://img.shields.io/badge/РЕГИСТРАЦИЯ_В_1XBET-БОНУС_+100%25-blue?style=for-the-badge&logo=1xbet&logoColor=white" alt="Регистрация в 1xBet">
+  </a>
+  <a href="ВАША_ССЫЛКА_НА_КАНАЛ">
+    <img src="https://img.shields.io/badge/ПЕРЕЙТИ_В_ТЕЛЕГРАМ-СИГНАЛЫ_24/7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Канал">
+  </a>
+</p>
+
+---
+
+### 📈 ПОЛУЧИТЬ ДОСТУП К СИГНАЛАМ:
+> **Шаг 1:** [Зарегистрируйтесь в 1xBet](https://refpa749456.pro/L?tag=s_2417237m_355c_&site=2417237&ad=355&r=live) (используйте промокод для бонуса).  
+> **Шаг 2:** [Подпишитесь на наш канал](t.me/v_vilki_1xbet), чтобы получать мгновенные уведомления.
 🚀 Smart Arbitrage: Эксклюзивный Сканер Вилок для 1xBet
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Telegram-blue)
